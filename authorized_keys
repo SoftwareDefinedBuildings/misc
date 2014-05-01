@@ -5,7 +5,7 @@
 #  |____/  |____/  |____/ 
 #
 # MASTER AUTHORIZED KEYS FILE
-# VERSION 2
+# VERSION 4
 # DATE    2014/5/1
 #
 # An up to date version of this file can be obtained by wgetting:
@@ -22,4 +22,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDKcF9KhxcH3t21jw2LPtZlVzDmN18lvkZTaKqltd/z
 
 # Kaifei Chen
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC1Mw7pcEGGyYgnrjLpe5bFOmw6piA4sFd7f/mAH/EW2xEokomXX9r0QZ5k7ET0lxMRArGFkJ/0Rk/IX5vaZu63AfpXtP0RJqQnSgnXKxbHBZ6md1COOeXyqFxwKcN42CypZ6MxnLxLQcj/mmkAyVOqehA0t6do1Ok5D+Y39b5h0fAvXY0k5+z/7RyytTSzMfkRbsizsbfYS3XfBG28nZuJHVwt5qizclB52J5XWeC4n9Kwdlgo/+47xN4B8AsQsjgVej3noM/PIOgAxDZpeRqyuS2i1QlXD81cCr8hQCS2ANyTm/j3stp8HzbtellMxhYUWPvcazoa403A1Xsd5qQUs1p9P0Udb+xxR9TifIcr7sRgx/JE9334bPLU4kU+zxGW1Z99Qz7pcVp9vLNtuvVPh6xKq2TU7XndSuYhlvkD/em7hduFEWXHxqyS4ezG8BPTLCgFkM7oSFVpojceWqBKLThVp5Cx5iJm0FHmI5v+8OyG6b44Hizz3AGT8vyLXPcS8cJ2hkVOyJMTb5ZyQo5W5o6CwE1TMMZ+jf5x1mB9RMA2+ROEAr+0hDtlsysyECqgeGw4bNNEJ1YldS2fsOB9n4RwRxYF8B6D2fVnr4dlBcHqE28bY3boxWNBFou38zIJ9f66A2h6rB0O01BlqOqdqr4gJd9IGw77WoZqJaMqPw== kaifei@eecs.berkeley.edu
-           
+
+# Gabe Fierro
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8B0mZremBfnMmBWPsKF37byZyXWD6BQObMnJiC5npMd8S+hic4uMKyeYRs8Wtd+BUXTUoVnt7FcDrx/vzFUxXprpG5CQIgOAUMYQ9EBEG3O9kaPlLmrLw5BpCkOfQMoc09d9zTnmXQzTh+RE8wznXUro9ipjOcv1hnScIR1DDJNeX38bUq0qjjHNnyT+yrgkHyrhlCFTMMQPo/YLiByZzZQotcBwyEQONT6v5XXaVcPna5P2NRgAdTngXHbxEQZQSuG1sdM1oHCLoHr94wfFmO9F87ikGHiTmNIrRXq5evkuKoyQmEtVACdnGfb2uEtidFToEqQGxosSoHO+t+b6z gt.fierro@berkeley.edu
+
