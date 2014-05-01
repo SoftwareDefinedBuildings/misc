@@ -1,0 +1,20 @@
+#   ____    ____    ____  
+#  / ___|  |  _ \  | __ ) 
+#  \___ \  | | | | |  _ \ 
+#   ___) | | |_| | | |_) |
+#  |____/  |____/  |____/ 
+#
+# MASTER AUTHORIZED KEYS FILE
+# VERSION 1
+# DATE    2014/4/30
+#
+# An up to date version of this file can be obtained by wgetting:
+# https://github.com/SoftwareDefinedBuildings/misc/raw/master/authorized_keys
+#
+# Any edits or notifications of compromised keys should be sent to
+# Albert Goto <goto@eecs.berkeley.edu>
+
+# Michael Andersen
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/WfhfBxRdt+i4daMPj2VV0E0W3o9DTOAL7cEP0owd/0PEAv0kAx/AoFGM1aZ/R3w8UNSFmz4eIz2KpSdVrxyf+GyaEpxKUVE6yTwywCU3LT0+9aa/qif6KJGtapnVoSzYphrQ2N2FHPrYtKTT9hf4nEafEKXiSpfOcpOqbhxetsX6WIUIhW+U2YcOwtZ1Hhr5NR3aDbSyUv1uBtBRxTMabBv+M+2mzsPMEwATubC3hrCEbzOG6r6OLBz/anVfCniayBxDNBuzLFT7bLZAZYzgEZWHgU20x8ssJfOI1rdJJrkz9tktcJwJYuzneChXya003eGtDT6RicFfO0eGlUy9 m.andersen@cs.berkeley.edu
+
+             
