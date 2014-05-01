@@ -5,7 +5,7 @@
 #  |____/  |____/  |____/ 
 #
 # MASTER AUTHORIZED KEYS FILE
-# VERSION 5
+# VERSION 6
 # DATE    2014/5/1
 #
 # An up to date version of this file can be obtained by wgetting:
@@ -28,3 +28,6 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8B0mZremBfnMmBWPsKF37byZyXWD6BQObMnJiC5np
 
 # Arka Bhattacharya
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDcpVqAua9Lztq7gA/UKM7gAtSH8rfRptF5fiXzuWxTOV/y79akYc9UMQlO1R8l3GANYTZmCZ+hBAcsXJHjbg+N0XgZqdxd42g/2H0PO7PJt6+HT2VFE30scJoquExafV5lonXWQxWls46bzOz4cQwhYrH97w5r56hkHAnZHAOfxrMwO+o6czbcPshauf4L9+9Le/8QU1Kqj9RLhsPhjIbbyqp55bpzAJtTitv9C8v0aWy5RGXbf016LjR+LN06gaX3DDsLfDwGCcd46Zb8XpRY68fNxNKgEQroBBWajPqPBCaWRqw6luNyoMuxz5C9KsaFCwzgVJvDOaInxCbeOtVr AAB@dhcp-44-209.eecs.berkeley.edu
+
+# Jonathan Fürst
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCkaJ5JlyuN4ywmMCWXNzXKj2kidroJiOQ1oBKoX64ThCYbSKAeJQ1F74dkKERJqWt3N6YzARI1cUWLMMJcrePfiM9bPoj6OWL0XWT9b2nsSM+B/w8qb4lqxyzsqzIxWfdE/Mqj6qGXOVzLoA2qaPqkVrnqpuxRE4z/VezdQ724VflF6sW/5NO6diq+am/xd22v43slVK9jG5jsl6sCeXKzZnnsQUNfhoh6FBnbn6m2mEXS523Pn9B6r70//gwexlIKyqslAM5+KacGJyc2b7+Wgzc2UDiAoA23634OCmk8+k2LY40UzbVKwyzx6SXJZ9YQOWhz4o374c7wEd6923Uv jofu@adm12-99.itu.dk
